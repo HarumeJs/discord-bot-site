@@ -18,9 +18,9 @@
 
 - После того как вы скопировали или же скачали скрипты, можете зайти в текстовый редактор и изменить код под себя :3
 
-**Несколько текстовых редакторов(Все ссылки на офф сайты)**
-Sublime text --> https://www.sublimetext.com/
-Visual Studio Code --> https://code.visualstudio.com/download
-Notepad+ --> https://notepad-plus-plus.org/downloads/
-Webshtorm --> https://www.jetbrains.com/ru-ru/webstorm/
+**Несколько текстовых редакторов(Все ссылки на офф сайты)** \n
+Sublime text --> https://www.sublimetext.com/ \n
+Visual Studio Code --> https://code.visualstudio.com/download \n
+Notepad+ --> https://notepad-plus-plus.org/downloads/ \n
+Webshtorm --> https://www.jetbrains.com/ru-ru/webstorm/ \n
 Atom --> https://atom.io/
