@@ -11,8 +11,8 @@
 **Как это сделать?**
 
 Вариант-1: Вы можете скачать архив прямо с гитхаба. Скриншот ниже:
-![](https://cdn.discordapp.com/attachments/635605644065374228/668098617906561024/WiWMt9hHtx.gif)
-![](https://cdn.discordapp.com/attachments/635605644065374228/668100020846854194/3ACuVUr1Wk.gif)
+![](https://cdn.discordapp.com/attachments/635605644065374228/668103707329822750/ocuGfiQCkh.gif)
+![](hhttps://cdn.discordapp.com/attachments/635605644065374228/668103709192093706/8rkUND0dpy.gif)
 
 Вариант-2: Открываете терминал, и прописываете команду [ **git clone https://github.com/perssBest/discord-bot-site** ]
 ![](https://cdn.discordapp.com/attachments/635605644065374228/668100353992032286/cmd_GwhMtbWWRt.png)
