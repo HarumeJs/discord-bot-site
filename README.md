@@ -28,7 +28,7 @@ Sublime text --> https://www.sublimetext.com/
 
 Visual Studio Code --> https://code.visualstudio.com/download 
 
-Notepad+ --> https://notepad-plus-plus.org/downloads/ 
+Notepad++ --> https://notepad-plus-plus.org/downloads/ 
 
 Webshtorm --> https://www.jetbrains.com/ru-ru/webstorm/ 
 
